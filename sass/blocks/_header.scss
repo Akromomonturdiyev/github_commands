@@ -1,0 +1,5 @@
+@use "../mixins" as m;
+
+.list{
+    @include m.unstylelist;
+}
